@@ -2,12 +2,14 @@
 Your task is to implement scroll to section for buttons in the menu
 Clicking on it should scroll your page to particular section
 Section 1 using anchors as a solution, but your task is to make it without anchoring
+<br/>
 ![Scroll To Image](./Images/1.png)
 #### Full JSFiddle Code: https://jsfiddle.net/vstoic/ua9e8sv7/64/
 
 ## Task 2 (Gradient Animation)
 Your task is to implement animation for gradient on hover, video of how it should work attached
-You can change any lines of code here and final result may vary from the example, its okay
+You can change any lines of code here and final result may vary from the example
+<br/>
 ![Gradient Animation](./Images/2.png)
 #### Full JSFiddle Code: https://jsfiddle.net/vstoic/6npbq8xm/153/
 
@@ -15,6 +17,7 @@ You can change any lines of code here and final result may vary from the example
 Your task is to implement multiselect from scratch (styling is not required)
 While closed it should show selected items separated by coma,
 on click it should open a list where you can check/uncheck items
+<br/>
 ![Multiselect](./Images/3.png)
 #### Full JSFiddle Code: https://jsfiddle.net/vstoic/zy8adj2v/175/
 
@@ -32,5 +35,6 @@ Additional (OPTIONAL) task
 what is time complexity of your solution?
 is it possible to make it in O(n) ?
 rewrite your solution to be the fastest
+<br/>
 ![Data Transform](./Images/4.png)
 #### Full JSFiddle Code: https://jsfiddle.net/vstoic/7h6fjprm/22/
